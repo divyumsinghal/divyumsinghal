@@ -21,11 +21,6 @@
      <!-- Top programming languages -->
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyumsinghal&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
      <br>
-     <!--  GitHub achievements-->
-     <img src="https://github-profile-trophy.vercel.app/?username=divyumsinghal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="divyumsinghal" />
-    <!-- Last GitHub profile update -->
-     <a href="https://github.com/divyumsinghal/divyumsinghal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/divyumsinghal/divyumsinghal?label=profile%20updated&style=flat-square"></a>
-     <br>
    </p>
 </details>
 
