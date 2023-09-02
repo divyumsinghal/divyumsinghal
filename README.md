@@ -52,13 +52,8 @@
 </details>
 
 
-<h3 align="center">✍️ Random Dev Quotes 🌟</h3>
+<h3 align="center">✍️ Auto-generated  Dev Quotes 🌟</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quotes" />
 </p>
 
-
-<h3 align="center">😂 Random Dev Meme 🤖</h3>
-<p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
