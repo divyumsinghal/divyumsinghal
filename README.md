@@ -1,6 +1,6 @@
 <h3 align="center"><img src="wave.gif" width="30px" height="30px">
   <samp> Hello World! I am 
-    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/divyumsinghal">Divyum Singhal</a> </b>
+    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://linkedin.com/in/divyumsinghal">Divyum Singhal</a> </b>
   </samp>
 </h3>
 
