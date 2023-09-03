@@ -54,12 +54,13 @@
 
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
+I invite you to engage in a round of Tic-Tac-Toe. Please allow a brief moment for all the emojis to load on this page, and then commence the game by clicking on the uppermost box.
 
-Xs go first, click one of the nine boxes to make your move.
+The initial move will be made by X. To make your move, click on any of the nine boxes.
 
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
+_If, for any reason, the buttons are unresponsive, consider refreshing the page. Occasionally, GitHub may encounter difficulty with a large number of emojis._
+
+You will assume the role of X, while I will take on the role of O.
 
 [Take me to the bottom](#bottom)
 
