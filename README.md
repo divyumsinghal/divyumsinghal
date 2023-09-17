@@ -62,6 +62,8 @@ _If, for any reason, the buttons are unresponsive, consider refreshing the page.
 
 You will assume the role of X, while I will take on the role of O.
 
+Everytime you click on a slot in the grid, the page will take you to the matching tic tac toe game, this will be the one at the top of your page. Ignore the rest of the games.
+
 [Take me to the bottom](#bottom)
 
 ---
