@@ -1,6 +1,6 @@
 <h3 align="center"><img src="wave.gif" width="30px" height="30px">
   <samp> Hello World! I am 
-    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://linkedin.com/in/divyumsinghal">Divyum Singhal</a> </b>
+    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://linkedin.com/in/divyumsinghal"> 01000100 01101001 01110110 01111001 01110101 01101101 00100000 01010011 01101001 01101110 01100111 01101000 01100001 01101100 </a> </b>
   </samp>
 </h3>
 
